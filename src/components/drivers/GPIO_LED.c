@@ -14,5 +14,6 @@ esp_err_t LED_Init()
 
 esp_err_t LED_Set(bool on)
 {
+    printf("Setting LED %s\n", on ? "ON" : "OFF");
     return gpio_set_level(LED_GPIO, on ? 1 : 0);
 }
