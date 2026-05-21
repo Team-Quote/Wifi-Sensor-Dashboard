@@ -1,0 +1,24 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "type": "multitext",
+    "created": "datetime",
+    "updated": "datetime",
+    "parent": "multitext",
+    "journal_type": "multitext",
+    "author": "multitext",
+    "url": "multitext",
+    "source_type": "multitext",
+    "school name": "multitext",
+    "term": "multitext",
+    "course name": "multitext",
+    "topic": "multitext",
+    "subject": "multitext",
+    "instructor": "multitext",
+    "units": "number",
+    "portal id": "multitext",
+    "knowledge": "multitext"
+  }
+}

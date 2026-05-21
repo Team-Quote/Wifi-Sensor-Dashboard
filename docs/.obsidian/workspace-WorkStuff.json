@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "c51b0b13205f71e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "897ee064faf2eabd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d759120da7ca7ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Randoms/LinearAlgebra.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LinearAlgebra"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d291ee407acac95f",
+    "type": "split",
+    "children": [
+      {
+        "id": "40b197defdb002c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66f9bf9a740aaa8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b969f9c43c14c2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ComputerScience",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7661fc4232f2aa90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "99008c9ab1c35086",
+    "type": "split",
+    "children": [
+      {
+        "id": "b58d16cd5e40a9fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9cc3fb57add85ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Randoms/Binary numbers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Binary numbers"
+            }
+          },
+          {
+            "id": "89f6a5c7077d914b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Randoms/Binary numbers.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Binary numbers"
+            }
+          },
+          {
+            "id": "0f6299fe71fd254a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "487b1d968267520e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "10817eaf6b6edced",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d759120da7ca7ab6",
+  "lastOpenFiles": [
+    "Attachments/CECS_229/Lecture/2.1 Fields & Vectors -- Annotated 10.17.24.pdf",
+    "Attachments/CECS_229/Lecture/2.1 Fields & Vectors -- Annotated 10.17.24.pdf.download/2.1 Fields & Vectors -- Annotated 10.17.24.pdf",
+    "Attachments/CECS_229/Lecture/2.1 Fields & Vectors -- Annotated 10.17.24.pdf.download",
+    "Randoms/Complex Plane.md",
+    "Randoms/Complex Numbers.md",
+    "Randoms/LinearAlgebra.md",
+    "Randoms/Vector.md",
+    "Randoms/Field.md",
+    "Randoms/Positional Numeral System.md",
+    "Randoms/Digital Electronics.md",
+    "Randoms/Binary numbers.md",
+    "Randoms/ComputerEngineering.md",
+    "Randoms/Sets.md",
+    "Discrete.md",
+    "Randoms/Relation.md",
+    "Randoms/ComputerScience.md",
+    "Templates/Computer Engineering Notes.md",
+    "Templates/Computer Science Notes.md",
+    "Math.md",
+    "Templates/Computer Science Wikipedia.md",
+    "Randoms/Engineering.md",
+    "Templates/Math Notes.md",
+    "Randoms/Algorithm.md",
+    "Randoms/<% tp.file.title %>.md",
+    "Randoms/Existence of a Unique Solution.md",
+    "Randoms/Eu.md",
+    "Templates/Latex.md",
+    "Templates/latex.js",
+    "Templates/Scripts/Latex.js",
+    "Templates/Scripts",
+    "Templates/Untitled",
+    "Randoms/Untitled.md",
+    "Attachments/Screenshot 2024-10-15 at 3.45.41 PM.png",
+    "Attachments/Pasted image 20241015153404.png",
+    "Attachments/Pasted image 20241015153334.png",
+    "Attachments/Pasted image 20241015153306.png",
+    "Attachments/Pasted image 20241015153250.png",
+    "Attachments/CECS_328/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
+    "Attachments/CECS_201/project_1/project_1.srcs/utils_1/imports/synth_1/AND_Structural.dcp",
+    "Attachments/CECS_201/project_1/project_1.srcs/utils_1/imports/synth_1",
+    "Attachments/CECS_201/project_1/project_1.srcs/utils_1/imports",
+    "Attachments/Screenshot 2024-06-24 at 5.21.34 PM.png",
+    "Attachments/Screenshot 2024-06-21 at 7.22.47 PM.png",
+    "Attachments/Screenshot 2024-06-21 at 6.16.16 PM.png",
+    "Attachments/Screenshot 2024-06-21 at 6.15.07 PM.png",
+    "Attachments/Screenshot 2024-04-11 at 2.39.30 PM.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "enabledCssSnippets": [
+    "custom-admonitions.6aa040",
+    "nick-milo-callouts",
+    "MCL Multi Column"
+  ],
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "translucency": true,
+  "cssTheme": "Things",
+  "theme": "system",
+  "baseFontSize": 16,
+  "accentColor": "#56b0e1",
+  "nativeMenus": true,
+  "showRibbon": false
+}
