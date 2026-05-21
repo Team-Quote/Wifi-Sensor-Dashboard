@@ -7,13 +7,24 @@
 
 void app_main(void)
 {
-    ESP_ERROR_CHECK(LED_Init());
-    while (1) {
-        printf("Toggling LED\n");
-        ESP_ERROR_CHECK(LED_Set(true));
-        vTaskDelay(pdMS_TO_TICKS(1000));
-        printf("Toggling LED\n");
-        ESP_ERROR_CHECK(LED_Set(false));
-        vTaskDelay(pdMS_TO_TICKS(1000));
+    SystemInit();
+    while (1) 
+    {
+        blink();
     }
+}
+
+void SystemInit(void)
+{
+    // Initialize system components here if needed
+    // Example: Clock initialization, memory initialization, etc.
+    ESP_ERROR_CHECK(LED_Init());
+}
+
+void blink(void)
+{
+    ESP_ERROR_CHECK(LED_Set(true));
+    vTaskDelay(pdMS_TO_TICKS(1000));
+    ESP_ERROR_CHECK(LED_Set(false));
+    vTaskDelay(pdMS_TO_TICKS(1000));
 }
