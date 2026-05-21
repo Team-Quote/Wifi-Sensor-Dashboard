@@ -1,0 +1,23 @@
+{
+  "legacyEditor": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "Attachments",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Randoms",
+  "livePreview": true,
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative",
+  "vimMode": false,
+  "spellcheck": true,
+  "communityThemeSortOrder": "download",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showInlineTitle": true,
+  "showRibbon": false
+}

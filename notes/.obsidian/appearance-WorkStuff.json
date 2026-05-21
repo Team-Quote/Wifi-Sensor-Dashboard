@@ -1,0 +1,14 @@
+{
+  "enabledCssSnippets": [
+    "custom-admonitions.6aa040"
+  ],
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "translucency": true,
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "baseFontSize": 16,
+  "accentColor": "#5797ff",
+  "nativeMenus": true
+}

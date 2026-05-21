@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "c51b0b13205f71e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3a80dd09d6076b8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/Sweet Science.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d291ee407acac95f",
+    "type": "split",
+    "children": [
+      {
+        "id": "40b197defdb002c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66f9bf9a740aaa8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b969f9c43c14c2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "### Algorithm",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 171.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "99008c9ab1c35086",
+    "type": "split",
+    "children": [
+      {
+        "id": "b58d16cd5e40a9fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9cc3fb57add85ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettlekasten/Sweet Science.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89f6a5c7077d914b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettlekasten/Sweet Science.md"
+              }
+            }
+          },
+          {
+            "id": "0f6299fe71fd254a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "c3a80dd09d6076b8",
+  "lastOpenFiles": [
+    "Zettlekasten/Sweet Science.md",
+    "Zettlekasten/Environmental Science.md",
+    "Zettlekasten/Week 3 Species Count.md",
+    "Zettlekasten/Data Abstract & Structures.md",
+    "Zettlekasten/Molecules of Life.md",
+    "Zettlekasten/Sustainability.md",
+    "Zettlekasten/Recursive Analysis.md",
+    "Zettlekasten/Sound - Phonology.md",
+    "Zettlekasten/Linguistics.md",
+    "Attachments/211003_Chapter 3_Phonology-2.pdf"
+  ]
+}
