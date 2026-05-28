@@ -93,14 +93,13 @@ static void wifi_event_handler(void *arg,
     if (event_base == WIFI_EVENT && event_id == WIFI_EVENT_STA_DISCONNECTED) {
         const wifi_event_sta_disconnected_t *event =
             (const wifi_event_sta_disconnected_t *)event_data;
-
+        
+        bool was_connected = s_connected;
         s_connected = false;
         xEventGroupClearBits(s_wifi_event_group, WIFI_CONNECTED_BIT);
 
-        // Only count this as a dashboard reconnect/drop after the board had at
-        // least one successful IP assignment. Startup retries are not user-visible
-        // Wi-Fi drops yet.
-        if (s_has_connected_once) {
+        // Count only real drop episodes, not every failed retry attempt.
+        if (was_connected && s_has_connected_once) {
             app_state_increment_reconnect_count();
         }
 
