@@ -1,12 +1,8 @@
-# Requirements & Constraints
-
 ## Description
 A compact, standalone Wi-Fi diagnostic appliance designed using the DOIT ESP32-DevKit-V1 platform under ESP-IDF V6.0. The system actively samples the local wireless environment to determine immediate connection quality, tracking network stability metrics and exposing them simultaneously across a physical TFT display and an embedded local web server
-
 ## Hardware Requirements
 - DOIT ESP32-DevKit-V1 (Xtensa Dual-core LX6, 4MB Flash, 520KB SRAM)
 - 1 TFT LCD Display Module Screen 2.0in 240x320 Resolution (SPI-driven, utilizing ST7789 or ILI9341 controller circuitry)
-
 ## System Requirements
 - [ ] **RQ-01 NVS Initialization**
 	- Non-Volatile Storage (NVS) flash must initialize successfully at startup to retain internal Wi-Fi calibrations and parameters.

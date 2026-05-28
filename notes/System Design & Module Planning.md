@@ -1,18 +1,13 @@
-# System Design & Module Planning
-
 ## Description
-
 ### Purpose
 The purpose of this project is to design a compact Wi-Fi diagnostic appliance using an ESP32. The system monitors the quality of the local Wi-Fi connection and presents the result through a physical display and a browser-based dashboard.
 
 Unlike previously implemented Internet Black Box Projects, which checks if the internet was usable. This project focuses on the quality and stability of the local Wi-Fi connection.
-
 ### What are we doing?
 This project explores the design approach for the ESP32 Wi-Fi Diagnostic Dashboard. The approach uses the same basic hardware and organizes the software. The goal is to have a solid design and the best architecture.
 
 ## Design 
 A layered modular architecture with separate modules for Wi-Fi management, monitoring, web server, display output, and shared application state.
-
 ### Core Hardware
 - ESP32 development board
 - External LCD/OLED display
@@ -20,7 +15,6 @@ A layered modular architecture with separate modules for Wi-Fi management, monit
 - USB power source
 - Optional RGB/status LED
 - Optional button for changing display pages
-
 ### Software Architecture
 #### Top Level
 `main.c`

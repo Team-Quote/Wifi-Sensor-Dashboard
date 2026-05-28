@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f837d554e15d4f16",
+        "id": "c186c201eaf87a3b",
         "type": "tabs",
         "children": [
           {
-            "id": "c9ca90f8049c6f6b",
+            "id": "f403fac44d9b6b9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Idea.md",
+                "file": "System Design & Module Planning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Project Idea"
+              "title": "System Design & Module Planning"
             }
           }
         ]
@@ -258,8 +258,18 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "c9ca90f8049c6f6b",
+  "active": "f403fac44d9b6b9d",
   "lastOpenFiles": [
+    "Module Test Report.md",
+    "System Design & Module Planning.md",
+    "Requirements & Constraints.md",
+    "Project Scope.md",
+    "Note Taking/Notes.md",
+    "Note Taking/Project Structure.md",
+    "Note Taking/Unit Testing in ESP32.md",
+    "Module Test Report",
+    "Note Taking",
+    "Notes.md",
     "1-Requirements and Constraints.md",
     "2- System Design and Module Planning.md",
     "001 Work/Courses/CSULB/CECS 490A/CECS 490A.md",
@@ -276,8 +286,6 @@
     "001 Work/Courses/CSULB/CECS 463/Exercises/2. Sinusoids/Unconfirmed 876397.crdownload",
     "001 Work/Courses/CSULB/CECS 463/Exercises/2. Sinusoids/exer2_8.pdf",
     "001 Work/Courses/CSULB/CECS 463/Exercises/2. Sinusoids/Unconfirmed 506948.crdownload",
-    "001 Work/Courses/CSULB/CECS 463/Exercises/2. Sinusoids/exer2_7.pdf",
-    "001 Work/Courses/CSULB/CECS 463/Exercises/2. Sinusoids/Unconfirmed 75565.crdownload",
     "001 Work/Courses/CSULB/CECS 361/CECS 361.md",
     "001 Work/Courses/CSULB/ENGR 361/ENGR 361.md",
     "001 Work/Courses/CSULB/BIOL 200/BIOL 200.md",
@@ -288,14 +296,6 @@
     "001 Work/Courses/CSULB/CECS 311/CECS 311.md",
     "001 Work/Courses/CSULB/HIST 300/HIST 300.md",
     "001 Work/Journal/Meta/Words.md",
-    "001 Work/Journal/Meta/Quotes and Statements.md",
-    "001 Work/Journal/Meta/Sources.md",
-    "001 Work/Journal/Sources/1955 vs 2025, who actually had it better.md",
-    "004 Templates/Journal/Meta/Sources template.md",
-    "001 Work/Journal/Sources/The Jar That Never Fills.md",
-    "001 Work/Journal/Sources/Computer games don't affect kids.md",
-    "001 Work/Journal/Sources/One is all, all is one.md",
-    "001 Work/Journal/Quotes and Statements/Embarrassment is an under explored emotion....md",
     "001 Work/Courses/CSULB/CECS 361/Projects/Project 1/References/Schematic_Hint.png",
     "001 Work/Courses/CSULB/CECS 347/Projects/Project 1/cecs347-project-1-goopers/docs/SolutionBFlowChart.png",
     "001 Work/Courses/CSULB/CECS 347/Projects/Project 1/cecs347-project-1-goopers/docs/SolutionBCallGraph.png",
