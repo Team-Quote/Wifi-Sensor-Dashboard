@@ -9,6 +9,7 @@
 #include "app_state.h"
 #include "wifi_manager.h"
 #include "monitor.h"
+#include "web_server.h"
 
 static const char *TAG = "main";
 
@@ -33,6 +34,10 @@ void app_main(void)
     //    The monitor task reads RSSI/IP/channel once per configured interval and
     //    writes the latest values into app_state.
     ESP_ERROR_CHECK(monitor_start());
+
+    // 5. Start Phase 3 HTTP API server.
+    //    /api/status returns the current app_state snapshot as JSON.
+    ESP_ERROR_CHECK(web_server_start());
 
     // Nothing else is required here yet.
     // Later modules such as web_server_start() and display_start() will be added
